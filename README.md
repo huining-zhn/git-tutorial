@@ -3,4 +3,5 @@
 
 -feature-A
 -fix-B
+-feature-fix-C
 
